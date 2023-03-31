@@ -1,6 +1,6 @@
 import java.util.*;
 class Condition{
-
+//this is main function
 public static void main(String args[]){
 
 
